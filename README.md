@@ -1,6 +1,6 @@
 Nigeria Gas Production & Utilisation Analysis (2025)
  Project Overview
-
+-----------------------------------
 This project analyzes Nigeria’s monthly gas production and utilisation performance for 2025 (January – September) using official data from the Nigerian National Petroleum Company Limited (NNPC).
 
 The goal is to evaluate:
